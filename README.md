@@ -109,3 +109,7 @@ cmake --build .
 ````
 
 This is it! You are now free to write C++ and build it for both Windows and Linux. Next, we'll get into using (and building) libraries.
+
+# Feedback
+
+If you encounter any issues while following this tutorial, feel free to open an issue!
